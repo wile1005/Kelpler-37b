@@ -1,6 +1,6 @@
 state={
 	id=1
-	name="STATE_1"
+	name="POG"
 	provinces={
 		264 2610 4444 
 	}

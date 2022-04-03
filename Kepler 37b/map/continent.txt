@@ -1,0 +1,8 @@
+continents = {
+	meridiem_continenti
+	magnum_desertum
+	jbuti_islands
+	alfonen
+	sancti_peninsula
+	lolopone
+}
